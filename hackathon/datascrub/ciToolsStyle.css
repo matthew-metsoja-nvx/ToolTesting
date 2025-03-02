@@ -1,0 +1,308 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,500,600,700|Roboto:400,700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #E4E4E4;
+    color: #333;
+    font: normal 14px "Open Sans", sans-serif;
+    margin: 0 auto;
+    max-width: 97%;
+    min-width: 900px;
+}
+
+/* Universal Elements */
+
+h1 {
+    background: url(tools.ico) left center no-repeat;
+    background-size: 17px;
+    font-size: 20px;
+    margin: 5px 3px;
+    padding-left: 26px;
+}
+
+h2 {
+    font-size: 18px;
+    margin: 5px 0;
+}
+
+a {
+    text-decoration: none;
+    color: #f48c37;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #eb7b20;
+}
+
+button,
+a.button {
+    background-color: #666;
+    border: 0;
+    border-radius: 2px;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+    margin: 0 5px;
+    min-width: 60px;
+    padding: 4px 10px;
+    transition: .1s all ease-out;
+}
+
+button:hover,
+a.button:hover {
+    background: #666;
+}
+
+button.go {
+    background: #f48c37;
+    margin: 0 0 0 auto;
+}
+
+button:disabled, button:disabled:hover {
+    background: #aaa !important;
+    cursor: default !important;
+}
+
+/* shared layout */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.flex {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.col-100 {
+    padding: 5px;
+    width: 100%;
+}
+
+.col-50 {
+    padding: 5px;
+    width: 50%;
+}
+
+.col-33 {
+    padding: 5px;
+    width: 33%;
+}
+
+.row-40 {
+    min-height: 40vh;
+}
+
+.col-25 {
+    padding: 5px;
+    width: 25%;
+}
+
+/* shared input boxes */
+
+#input-area {
+    border: 1px solid #999;
+    margin: 0;
+    padding: 5px;
+}
+
+#action-window {
+    background: white;
+    border: 1px solid #999;
+    margin: 0;
+    min-height: 200px;
+    padding: 5px;
+    width: 100%;
+}
+
+#pop-up {
+    background: white;
+    border-radius: 5px;
+    display: none;
+    margin: 0 auto;
+    padding: 20px;
+    position: absolute;
+    top: 300px;
+}
+
+/* shared styling */
+
+.bold {
+    font-weight: 700;
+}
+
+.ctrl-panel {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0;
+}
+
+.ctrl-input {
+    width: 80px;
+}
+
+.hidden {
+    border: 0;
+    height: 0;
+    width: 0;
+}
+
+.hover-container {
+    position: relative;
+    margin-bottom: 4px;
+}
+
+.hover-container:hover .hover-modal {
+    background: white;
+    border: 1px solid #999;
+    display: block;
+    margin: 20px 0 0 104px;
+    padding: 6px 10px;
+    width: 300px;
+    z-index: 10;
+}
+
+.hover-modal {
+    display: none;
+    position: absolute;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.output {
+    background-color: #fff;
+    border: 1px solid #999;
+    font-size: 12px;
+}
+
+.input-wrapper {
+    border-radius: 5px;
+    margin-right: 20px;
+    padding: 5px 10px;
+}
+
+.input-title {
+    margin-right: 5px;
+    font-weight: 700;
+}
+
+.radio-title {
+    margin-right: 10px;
+}
+
+.right {
+    margin: 0 0 0 auto;
+}
+
+/* bg colors */
+
+.yellow-bg {
+    background: #fffd5b;
+}
+
+.mint-bg {
+    background: #00c577;
+}
+
+.cyan-bg {
+    background: #6dc0ff;
+}
+
+.red-bg {
+    background: #ff5353;
+}
+
+.oj-bg {
+    background: #ffa123;
+}
+
+.mint-text {
+    color: #00c577;
+}
+
+.red-text {
+    color: #ff5353;
+}
+
+.white-text {
+    color: white;
+}
+
+/* Misc / one-offs */
+
+.tools-home .col-50 > a {
+    display: block;
+}
+
+.tools-home main {
+    background: white;  
+    border: 1px solid #999;
+}
+
+.tools-home section {
+    justify-content: space-between;
+}
+
+.tools-home .hover-container {
+    font: normal 400 16px/22px 'Open Sans', sans-serif;
+}
+
+.tools-home h2 {
+    margin: 20px 0 10px;  
+}
+
+.tools-home .col-33 {
+    padding: 0 20px 20px;  
+}
+
+.tools-home a {
+    font-weight: 600;
+}
+
+.h300 {
+    height: 300px;
+}
+
+.log-keys {
+    display: inline-block;
+}
+
+.log-keys span {
+    display: inline-block;
+    margin: 0 3px;
+    padding: 2px 5px;
+}
+.data-scrubber .outputs {
+    height: 300px
+}
+
+/* unique id's*/
+
+#child-output {
+    flex-basis: 100%;
+    max-height: 400px;
+    min-height: 100px;
+    margin-top: 10px;
+    padding: 5px;
+    width: 1480px;
+}
+
+
+
+

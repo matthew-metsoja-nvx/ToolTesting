@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Matemasie&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    background-color: #F5F5F5;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+main {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+}
+
+main>h1 {
+    font-family: "Matemasie", sans-serif;
+    color: #EF700C;
+    font-size: 2.5em;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#box1, #box2, #box3 {
+    margin-bottom: 20px;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1.2em;
+    box-sizing: border-box;
+}
+
+button {
+    font-family: "Raleway", sans-serif;
+    font-size: 1.1em;
+    padding: 10px 20px;
+    color: #FFF;
+    background-color: #232E21;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #EF700C;
+}
+
+p {
+    font-weight: 700;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+}
+
+
+.footer-heart{
+	text-align:center;
+}

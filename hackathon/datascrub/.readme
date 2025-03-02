@@ -1,0 +1,48 @@
+ldb_common.js:
+
+This script contains common functions used across the application, such as initializing language options, handling class manipulations, and loading data from URLs.
+The init function is called when the window loads to set up the language options and hover effects.
+datascrub_main.js:
+
+This script contains the main logic for the data scrubbing application.
+Functions like correct, copySettings, and check are defined here and are called when the user interacts with the page (e.g., clicking the "GO" button or the "Copy Settings" button).
+The correct function processes the data pasted into the input-area text area and performs various checks and corrections.
+datascrub_config.js:
+
+This script contains configuration settings for the data scrubbing application, such as rules for detecting duplicates, bad characters, and sanctioned countries.
+These settings are used by the functions in datascrub_main.js to validate and correct the data.
+HTML Elements and Script Functions:
+<textarea id="input-area">:
+
+The main input area where users paste their data.
+The APP.correct function processes the data from this area.
+<button class="go" onclick="APP.correct();">GO</button>:
+
+Starts the data correction process by calling the APP.correct function.
+<button class="button secondary copy-settings" onclick="APP.copySettings()">Copy Settings</button>:
+
+Copies settings by calling the APP.copySettings function.
+<textarea id="redirectInput"> and <textarea id="DPInput">:
+
+Additional input areas for pasting settings and data privacy lists.
+Used by the APP.correct function to process additional data.
+<div id="errorDisplay"> and <div id="abbreviationDisplay">:
+
+Output areas for displaying errors and abbreviations.
+Updated by functions like APP.logDisplay and APP.abbreviationDisplay.
+<div id="child-output">:
+
+An area for displaying child tier outputs.
+Used by the APP.childOutput function.
+
+
+===
+
+we now need to update the tool to look for additional conditions that are currently not failing any checks for instance the should
+fail as give us an alert or output to the #errorDisplay box 
+
+counter	Name	Country	RedirectClientID	DataPrivacy	Custom Field 1
+1	Albania	Albania	[]	FALSE	WWF Adria
+2		"
+
+Albania"		FALSE	WWF International

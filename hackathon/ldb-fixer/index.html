@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> 
+
+<head>
+  <title>EthicsPoint - LDB Data Fixer</title>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+  <meta http-equiv="cache-control" content="no-cache" />
+  <meta name="robots" content="noindex, nofollow" />
+  <link rel="shortcut icon" href="/domain/en/images/transparent.ico" />
+  <link rel="stylesheet" type="text/css" href="ciCLIENT.css" />
+</head>
+<body>
+  <main class="contain">
+    <h1>LDB Data Fixer</h1>
+
+    <div id="box1">
+      <p>Original Location Data from loc.txt</p>
+      <textarea name="origData" id="origData" rows="10" cols="120"></textarea>
+    </div>
+
+    <div id="box2">
+      <p>Paste Error Messages from EP Admin to below</p>
+      <textarea name="errData" id="errData" rows="10" cols="120"></textarea>
+    </div>
+
+    <button id="fixErrors">Fix Errors</button>
+    <button id="removeBadChar">Remove Bad Characters</button>
+    <button id="fixAndRemove">Fix Errors + Remove Bad Characters</button>
+	
+    <div id="box3">
+      <p>Updated Output</p>
+      <textarea name="updatedOutput" id="updatedOutput" rows="10" cols="120"></textarea>
+    </div>
+	<p>Hints:</p>
+	<ul>
+	<li>"Fix Errors" button will add a space to each end of the lines of your locations that are flagged by EP Admin.</li>
+	<li>"Remove Bad Characters" button will remove preceding commas, ending commas, ending hyphens, double quotes, and semicolons from your location data.</li>
+	<li>"Fix Errors + Remove Bad Characters" button will perform both actions at the same time. (Make sure you paste the error message from EP Admin.)</li>
+	</ul>
+  </main>
+  <script type="text/javascript" src="ciClientVars.js"></script>
+</body>
+<p class="footer-heart">
+  Made with &#128151; by Joe, Arthur, Matthew, Jo
+</p>
+</html>

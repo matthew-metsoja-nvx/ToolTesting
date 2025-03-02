@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+
+<head>
+    <!-- This sets the character encoding for the document -->
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <!-- This links to the stylesheet for the page -->
+    <link rel="stylesheet" type="text/css" href="ciToolsStyle.css" />
+    <!-- These scripts are included for the functionality of the page -->
+    <script src="ldb_common.js"></script>
+    <script src="datascrub_main.js"></script>
+    <script src="datascrub_config.js"></script>
+    <script type="text/javascript" src="https://secure.ethicspoint.com/domain/media/shared/jquery.js"></script>
+</head>
+
+<body class="data-scrubber">
+    <header>
+        <!-- This is the title of the page -->
+        <h1>Data Scrubber</h1>
+        <!-- This is a toggle for child tiers -->
+        <div class="right">
+            Child tiers:<input type="radio" name="child" value="off" checked>OFF<input type="radio" name="child" value="on">ON (may only work in Chrome)
+        </div>
+    </header>
+    <main>
+        <!-- This is a text area where users can paste data -->
+        <textarea rows="16" cols="220" id="input-area" wrap="off" class="output col-100" placeholder="Paste in location spreadsheet with 'counter' as first column."></textarea>
+        <div class="flex ctrl-panel">
+            <span class="flex">
+                <!-- These are radio buttons for redirect options -->
+                <input type="radio" name="redirect" value="off" checked><span class="radio-title">OFF </span>
+                <input type="radio" name="redirect" value="tiertoid"><span class="radio-title">name to CID </span>
+                <input type="radio" name="redirect" value="idtotier"><span class="radio-title">CID to name </span>
+                <!-- This button copies settings -->
+                <button class="button secondary copy-settings" onclick="APP.copySettings()">Copy Settings</button>
+            </span>
+            <!-- This button starts the data correction process -->
+            <button class="go" onclick="APP.correct();">GO</button>
+            <span class="log-keys">
+                LOG KEY: 
+                <span class="yellow-bg">DUPLICATE</span>
+                <span class="mint-bg">BADCHAR</span>
+                <span class="cyan-bg">VARIATION</span>
+                <span class="red-bg">COUNTRY/DP</span>
+                <span class="oj-bg">TIER</span>
+            </span>
+        </div>
+        <section class="outputs">
+            <!-- These are text areas for additional inputs and outputs -->
+            <textarea class="output col-25 h300" id="redirectInput" wrap="off" placeholder="(paste from 'copy settings')"></textarea>
+            <textarea class="output col-25 h300" id="DPInput" wrap="off" placeholder="Paste DP LIST (flags) from ciClientVars.js"></textarea>
+            <div class="output col-25 h300" id="errorDisplay"></div>
+            <div class="output col-25 h300" id="abbreviationDisplay"></div>
+        </section>
+        <section>
+            <!-- This is an area for child tier outputs -->
+            <div class="output" id="child-output">Child tiers will be broken out here (legacy functionality)</div>
+        </section>
+    </main>
+    <!-- This is a hidden iframe used for some functionality -->
+    <iframe class="hidden"></iframe>
+</body>
+
+</html>
