@@ -1,0 +1,24 @@
+counter	Name	Country
+1	hello's	Afghanistan+
+2	square bracket[ ]	Algeria
+3	"lots of breaks
+
+
+de"	Anguilla
+4	semi colon;	Aruba
+5	(curly bracket?)	Austria
+6	"line breaks
+bad cell
+
+here
+"	Belize
+7		Bosnia
+8	Testing	Japan
+9		[Comma]
+10		Jordan
+11		Cuba
+12		Iran
+13		Kazakhstan,
+14		England =
+15		US *
+16		mañana —

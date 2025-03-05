@@ -1,0 +1,103 @@
+counter	NAME	BRANCH	ADDRESS1	CITY	STATE	ZIP	COUNTRY	REDIRECTCLIENTID	DATAPRIVACY	CUSTOM FIELD 1	CUSTOM FIELD 2
+1	Administration Building	1	366 North Church Street	Spartanburg	SC	29303	United States	0	FALSE	Administration Building	
+2	Communications	51	8 Westmoreland Street	Spartanburg	SC	29301	United States	0	FALSE	Communications	Maintenance
+3	Communications	50	461 E Main Street	Spartanburg	SC	29302	United States	0	FALSE	Communications	Operations
+4	Communications			Spartanburg			United States	0	FALSE	Communications	Other
+5	Community Services Building	10	9039 Fairforest Road	Spartanburg	SC	29301	United States	0	FALSE	Community Services Building	
+6	Courthouse	5	180 Magnolia Street	Spartanburg	SC	29306	United States	0	FALSE	Courthouse	
+7	Detention Facility	15	950 California Avenue	Spartanburg	SC	29303	United States	0	FALSE	Detention Facility	
+8 	District Magistrate	80	4224 Hwy 9	Boiling Springs	SC	29316	United States	0	FALSE	District Magistrate-Region 2	Boiling Springs
+9	District Magistrate		5854 Reidville Rd, Ste C 	Moore 	SC	29369	United States	0	FALSE	District Magistrate-Region 1	Region 1
+10	District Magistrate		112 Foster St 	Cowpens 	SC	29330	United States	0	FALSE	District Magistrate-Region 3	Region 3
+11	Emergency Operations Center		175 Community College Drive	Spartanburg	SC 	29303	United States	0	FALSE	Emergency Operations Center	EOC
+12	Emergency Services Academy	55	100 Bob Holt Drive	Duncan	SC	29334	United States	0	FALSE	Emergency Services Academy	
+13	Environmental Enforcement	45	298 Broadcast Drive	Spartanburg	SC	29303	United States	0	FALSE	Environmental Enforcement	
+14	Fleet Services Building	40	290 Broadcast Drive	Spartanburg	SC	29303	United States	0	FALSE	Fleet Services Building	
+15	Indigent Care	65	4 Catawba Street	Spartanburg	SC	29303	United States	0	FALSE	Indigent Care	
+16	Nurse Practitioner Clinic	60	258 N Church Street	Spartanburg	SC	29303	United States	0	FALSE	Nurse Practitioner Clinic	Employee Health Clinic
+17	Other			Boiling Springs			United States	0	FALSE	Other	
+18	Other			Campobello			United States	0	FALSE	Other	
+19	Other			Chesnee			United States	0	FALSE	Other	
+20	Other			Duncan			United States	0	FALSE	Other	
+21	Other			Enoree			United States	0	FALSE	Other	
+22	Other			Greer			United States	0	FALSE	Other	
+23	Other			Inman			United States	0	FALSE	Other	
+24	Other			Landrum			United States	0	FALSE	Other	
+25	Other			Lyman			United States	0	FALSE	Other	
+26	Other			Pacolet			United States	0	FALSE	Other	
+27	Other			Pauline			United States	0	FALSE	Other	
+28	Other			Reidville			United States	0	FALSE	Other	
+29	Other			Roebuck			United States	0	FALSE	Other	
+30	Other			Spartanburg			United States	0	FALSE	Other	
+31	Other			Wellford			United States	0	FALSE	Other	
+32	Other			Woodruff			United States	0	FALSE	Other	
+33	Parks and Recreation	128	1160 Old Furnace Road	Boiling Springs	SC	29316	United States	0	FALSE	Parks and Recreation	North Spartanburg Park
+34	Parks and Recreation	129	591 McMillan Blvd	Boiling Springs	SC	29316	United States	0	FALSE	Parks and Recreation	Va-Du-Mar Park
+35	Parks and Recreation	123	195 Coleman Circle	Pacolet	SC	29372	United States	0	FALSE	Parks and Recreation	TW Edwards Center
+36	Parks and Recreation	125	2100 Southport Road	Spartanburg	SC	29306	United States	0	FALSE	Parks and Recreation	295 Sports Complex
+37	Parks and Recreation	126	141 Cleveland Park Drive	Spartanburg	SC	29303	United States	0	FALSE	Parks and Recreation	Berry Field
+38	Parks and Recreation	120	141 Cleveland Park Drive	Spartanburg	SC	29303	United States	0	FALSE	Parks and Recreation	Cleveland Park
+39	Parks and Recreation	127	315 Old Canaan Road Ext	Spartanburg	SC	29306	United States	0	FALSE	Parks and Recreation	Old Canaan Road Soccer Complex
+40	Parks and Recreation	124	550 Cavins Road	Woodruff	SC	29388	United States	0	FALSE	Parks and Recreation	Woodruff Center
+41	Parks and Recreation			Boiling Springs			United States	0	FALSE	Parks and Recreation	Other
+42	Parks and Recreation			Duncan			United States	0	FALSE	Parks and Recreation	Other
+43	Parks and Recreation			Inman			United States	0	FALSE	Parks and Recreation	Other
+44	Parks and Recreation			Pacolet			United States	0	FALSE	Parks and Recreation	Other
+45	Parks and Recreation			Spartanburg			United States	0	FALSE	Parks and Recreation	Other
+46	Parks and Recreation			Woodruff			United States	0	FALSE	Parks and Recreation	Other
+47	Parks and Recreation		179 Dillard Road	Duncan	SC	29334	United States	0	FALSE	Parks and Recreation	Tyger River Park
+48 	Parks and Recreation		180 Foster Street	Cowpense	SC	29330	United States	0	FALSE	Parks and Recreation	Timken Community Center
+49	Parks and Recreation		302 E Manning Street	Chesnee	SC	29323	United States	0	FALSE	Parks and Recreation	Chesnee Community Center & Park
+50	Parks and Recreation		100 Cooley Dock Road	Inman	SC	29349	United States	0	FALSE	Parks and Recreation	Lake Cooley Park
+51	Parks and Recreation		7561 New Cut Road	Inman	SC	29349	United States	0	FALSE	Parks and Recreation	Holston Creek Park
+52	Pet Resource Center		1591 Southport Road	Spartanburg	SC	29306	United States	0	FALSE	Pet Resource Center	
+53	Parking Deck	35	180 Library Street	Spartanburg	SC	29306	United States	0	FALSE	Parking Deck	
+54	Recycling Center	101	8278 Valley Falls Road	Boiling Springs	SC	29316	United States	0	FALSE	Recycling Center	Valley Falls
+55	Recycling Center	109	645 Runion Road	Campobello	SC	29322	United States	0	FALSE	Recycling Center	Campobello
+56	Recycling Center	111	390 Sulphur Springs Road	Chesnee	SC	29323	United States	0	FALSE	Recycling Center	Chesnee
+57	Recycling Center	106	1835 Sandy Ford Road	Chesnee	SC	29323	United States	0	FALSE	Recycling Center	Mayo
+58	Recycling Center	103	355 Tucapau Road	Duncan	SC	29334	United States	0	FALSE	Recycling Center	Berry's Pond
+59	Recycling Center	114	3080 Hwy 92	Enoree	SC	29335	United States	0	FALSE	Recycling Center	Enoree
+60	Recycling Center	105	1650 Edwards Road	Inman	SC	29349	United States	0	FALSE	Recycling Center	New Prospect
+61	Recycling Center	108	1355 Hyw 357	Lyman	SC	29365	United States	0	FALSE	Recycling Center	Hwy 357
+62	Recycling Center	112	5584 Hwy 56	Pauline	SC	29374	United States	0	FALSE	Recycling Center	Pauline
+63	Recycling Center	100	255 Quarter Mile Road	Roebuck	SC	29376	United States	0	FALSE	Recycling Center	Roebuck
+64	Recycling Center	102	109 Cowpens-Clifton Road	Spartanburg	SC	29330	United States	0	FALSE	Recycling Center	Cowpens
+65	Recycling Center	104	50 Dexter Road	Spartanburg	SC	29303	United States	0	FALSE	Recycling Center	Howard Street
+66	Recycling Center	116	185 Gowens Road	Spartanburg	SC	29306	United States	0	FALSE	Recycling Center	Stone Station
+67	Recycling Center	107	379 Brown Road	Spartanburg	SC	29302	United States	0	FALSE	Recycling Center	White Stone
+68	Recycling Center	113	1493 Kilgore Bridge Road	Woodruff	SC	29388	United States	0	FALSE	Recycling Center	Hobbysville
+69	Recycling Center	110	150 Wofford Road	Woodruff	SC	29388	United States	0	FALSE	Recycling Center	Woodruff
+70	Recycling Center			Boiling Springs			United States	0	FALSE	Recycling Center	Other
+71	Recycling Center			Campobello			United States	0	FALSE	Recycling Center	Other
+72	Recycling Center			Chesnee			United States	0	FALSE	Recycling Center	Other
+73	Recycling Center			Duncan			United States	0	FALSE	Recycling Center	Other
+74	Recycling Center			Enoree			United States	0	FALSE	Recycling Center	Other
+75	Recycling Center			Inman			United States	0	FALSE	Recycling Center	Other
+76	Recycling Center			Lyman			United States	0	FALSE	Recycling Center	Other
+77	Recycling Center			Pauline			United States	0	FALSE	Recycling Center	Other
+78	Recycling Center			Roebuck			United States	0	FALSE	Recycling Center	Other
+79	Recycling Center			Spartanburg			United States	0	FALSE	Recycling Center	Other
+80	Recycling Center			Woodruff			United States	0	FALSE	Recycling Center	Other
+81	Roads and Bridges	131	285 Prison Camp Road	Campobello	SC	29322	United States	0	FALSE	Roads and Bridges	Camp 1
+82	Roads and Bridges	132	780 Scott Meadows Trail	Duncan	SC	29334	United States	0	FALSE	Roads and Bridges	Camp 2
+83	Roads and Bridges	130	298 Broadcast Drive	Spartanburg	SC	29303	United States	0	FALSE	Roads and Bridges	Bridge Division
+84	Roads and Bridges	134	199 Gowens Road	Spartanburg	SC	29306	United States	0	FALSE	Roads and Bridges	Camp 4
+85	Roads and Bridges	135	298 Broadcast Drive	Spartanburg	SC	29303	United States	0	FALSE	Roads and Bridges	Camp 5
+86	Roads and Bridges	136	180 Broadcast Drive	Spartanburg	SC	29303	United States	0	FALSE	Roads and Bridges	Traffic Division
+87	Roads and Bridges	133	540 Allen Street	Woodruff	SC	29388	United States	0	FALSE	Roads and Bridges	Camp 3
+88	Roads and Bridges			Campobello			United States	0	FALSE	Roads and Bridges	Other
+89	Roads and Bridges			Duncan			United States	0	FALSE	Roads and Bridges	Other
+90	Roads and Bridges			Spartanburg			United States	0	FALSE	Roads and Bridges	Other
+91	Roads and Bridges			Woodruff			United States	0	FALSE	Roads and Bridges	Other
+92	Sheriff's Office	20	8045 Howard Street	Spartanburg	SC	29303	United States	0	FALSE	Sheriff's Office	
+93	Veterans' Affairs		610 Chesnee Hwy	Spartanburg	SC	29303	United States	0	FALSE	Veterans' Affairs	Beaumont Plaza
+94	Wellford Landfill	75	595 Little Mountain Road	Wellford	SC	29385	United States	0	FALSE	Wellford Landfill	
+95								0	FALSE		
+96								0	FALSE	Trinity Fire Department	Cavins Station
+97								0	FALSE	Trinity Fire Department	Crescent Station
+98								0	FALSE	Trinity Fire Department	Cross Anchor Station
+99								0	FALSE	Trinity Fire Department	Enoree Station
+100								0	FALSE	Trinity Fire Department	Hobbysville Station
+101								0	FALSE	Trinity Fire Department	Woodruff Station
+102								0	FALSE	Upstate Workforce Board	Business Technology Center

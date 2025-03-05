@@ -1,14 +1,13 @@
-ldb_common.js:
-
+<!-- ldb_common.js: -->
 This script contains common functions used across the application, such as initializing language options, handling class manipulations, and loading data from URLs.
 The init function is called when the window loads to set up the language options and hover effects.
-datascrub_main.js:
 
+<!-- datascrub_main.js: -->
 This script contains the main logic for the data scrubbing application.
 Functions like correct, copySettings, and check are defined here and are called when the user interacts with the page (e.g., clicking the "GO" button or the "Copy Settings" button).
 The correct function processes the data pasted into the input-area text area and performs various checks and corrections.
-datascrub_config.js:
 
+<!-- datascrub_config.js: -->
 This script contains configuration settings for the data scrubbing application, such as rules for detecting duplicates, bad characters, and sanctioned countries.
 These settings are used by the functions in datascrub_main.js to validate and correct the data.
 HTML Elements and Script Functions:

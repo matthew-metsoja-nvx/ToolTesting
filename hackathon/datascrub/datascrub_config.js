@@ -3,7 +3,7 @@ var config = {
         // These are the fields we check for duplicates
         duplicates: ["name", "branch", "address1", "address2", "city", "state", "zip", "country", "region code", "misc 1", "misc 2", "redirectclientid", "violationpackageid", "custom field 1", "custom field 2", "custom field 3", "custom field 4", "custom field 5", "custom field 6"],
 
-        // These are rules for bad characters we don't want
+        //! These are rules for bad characters we don't want 👈
         badchars: {
             "preceding comma": /^\s*,/, // No comma at the start
             "ending comma": /,\s*$/, // No comma at the end
@@ -13,12 +13,14 @@ var config = {
             "semi-colon": ";" // No semi-colons
         },
 
-        // These are countries we don't want to include
+       // A list of countries we can't include in our data
         sanctionedCountries: [
             "Cuba",
+			"CUB",
             "Iran",
             "Iran (Islamic Republic of)",
             "Iran, Islamic Republic of",
+			"IRN",
             "Islamic Republic of Iran",
             "North Korea",
             "Korea (North)",
@@ -29,13 +31,16 @@ var config = {
             "Korea, Democratic People's Republic of",
             "Korea, North",
             "North Korea (Democratic People's Republic)",
+			"PRK",
             "Syria",
             "Syrian Arab Republic (Syria)",
-            "Syrian Arab Republic"
+            "Syrian Arab Republic",
+			"SYR",
         ],
 
-        // These are rules for the "address1" field
+        // Rules for how to write addresses properly
         address1: {
+			// Different ways people might write the same thing
             variations: {
                 // These are different ways people might write "drive"
                 " drive ": /\s+drive+\s/,
@@ -68,6 +73,7 @@ var config = {
                 " RD ": /\s+RD+\s/,
                 " Rd ": /\s+Rd+\s/
             },
+			 // Short versions of words and their full versions
             abbreviations: {
                 // These are abbreviations for "road"
                 "rd": "Road",
@@ -79,10 +85,10 @@ var config = {
             }
         },
 
-        // These are rules for the "city" field
+        // Rules for writing city names correctly
         city: {
             variations: {
-                // These are different ways people might write "north"
+               // Different ways people write "north" in city names
                 " north ": /\s+north+\s/,
                 " NORTH ": /\s+NORTH+\s/,
                 " North ": /\s+North+\s/,

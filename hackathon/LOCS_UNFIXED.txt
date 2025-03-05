@@ -1,0 +1,141 @@
+counter	name	branch	address1	city	state	zip	country	dataprivacy	custom field 1	custom field 2	custom field 3	custom field 4
+1	34th Street	27920	,5004 NW 34th St	Gainesville	FL	32605	United States	FALSE	34th Street	Bryan Fletcher - Gainesville		CFL Pizza
+2	Alachua	27917	15947 NW US Hwy 441,	Alachua	FL	32615	United States	FALSE	Alachua	Bryan Fletcher - Gainesville		CFL Pizza
+3	Americana	26566	2153 Americana Blvd-	Orlando	FL	32839	United States	FALSE	Americana	Rumone Traill - Orlando South		CFL Pizza
+4	Apopka	26504	883 Semoran Blvd"	Apopka	FL	32703	United States	FALSE	Apopka	Robert Comer - Orlando East		CFL Pizza
+5	Apopka Vineland	32641	12195 S Apopka "Vineland" Road	Orlando	FL	32836	United States	FALSE	Apopka Vineland	Monica Johnson - Kissimmee		CFL Pizza
+6	Apopka/Vineland	G112004	12195 S Apopka Vineland Road;	Orlando	FL	32836	United States	FALSE	Apopka/Vineland	Josuah Ross		FLG Chicken
+7	Archer Road	27918	3515 SW Archer; Road	Gainesville	FL	32608	United States	FALSE	Archer Road	Bryan Fletcher - Gainesville		CFL Pizza
+8	Auburndale	41073	,865 Hwy 559	Auburndale	FL	33823	United States	FALSE	Kissimmee OBT	Hector Berrios - AC		CFL Pizza
+9	Avalon	28007	,369 S. Avalon Park Blvd	,Orlando	FL	32828	United States	FALSE	Avalon	Ravendra Presaud		Bravo Foods
+10	Avalon Park	26521	,3662 Avalon Park E Blvd	,Orlando	FL	32828	United States	FALSE	Avalon Park	Jonathon Perry - Orlando Mid		CFL Pizza
+11	Barnes	27975	,631 Barnes Blvd	Rockledge	FL	32955	United States	FALSE	Barnes	Alissa Alvarado		Bravo Foods
+12	Barton	27973	,188 Barton Blvd	Rockledge	FL	32955	United States	FALSE	Barton	Alissa Alvarado		Bravo Foods
+13	Bayside	26527	1840 Eldron Blvd SE, B7	Palm Bay	FL	32909	United States	FALSE	Bayside	Arlee Andre		CFL Pizza
+14	Beachside	26535	500 S Atlantic Ave	Daytona Beach	FL	32118	United States	FALSE	Beachside	Rachael Sanchez - Midstate		CFL Pizza
+15	Belleview	26491	10738 SE US Hwy 441	Belleview	FL	34420	United States	FALSE	Belleview	Dustin Patton - Ocala		CFL Pizza
+16	Beville Road	26552	1500 Beville Road, Ste 102	Daytona Beach	FL	32114	United States	FALSE	Beville Road	Rachael Sanchez - Midstate		CFL Pizza
+17	Bithlo	27985	16880 E. Colonial Dr	Orlando	FL	32820	United States	FALSE	Bithlo	Ravendra Presaud		Bravo Foods
+18	Bithlo Delco	29704	16873 E. Colonial Dr	Orlando	FL	32820	United States	FALSE	Bithlo Delco	Jonathon Perry - Orlando Mid		CFL Pizza
+19	Boggy Creek	33927	2810 E Osceola Parkway	Kissimmee	FL	34743	United States	FALSE	Boggy Creek	Cory Matthews		Bravo Foods
+20	Bushnell	26529	421 NW St	Bushnell	FL	33513	United States	FALSE	Bushnell	Hannah Hill - Lake Sumter		CFL Pizza
+21	BVL	26574	1022 Buena Ventura Blvd	Kissimmee	FL	34743	United States	FALSE	BVL	Monica Johnson - Kissimmee		CFL Pizza
+22	Cantina	34859	12101 University Blvd #201	Orlando	FL	32817	United States	FALSE	Cantina	Duane Lewis		Bravo Foods
+23	Cascades	26507	1316 E Silver Springs Blvd	Ocala	FL	34470	United States	FALSE	Cascades	Dustin Patton - Ocala		CFL Pizza
+24	Casselberry	26508	130 N Winter Park Dr	Casselberry	FL	32707	United States	FALSE	Casselberry	Jennifer Welsh - Orlando North		CFL Pizza
+25	Champions Gate	26517	7557 Osceola Polk Line Road	Kissimmee	FL	34747	United States	FALSE	Champions Gate	Hector Berrios - AC		CFL Pizza
+26	Chickasaw	26513	563 S Chickasaw Trl	Orlando	FL	32825	United States	FALSE	Chickasaw	Rumone Traill - Orlando South		CFL Pizza
+27	Chiefland	27919	1105 N Young	Chiefland	FL	32626	United States	FALSE	Chiefland	Bryan Fletcher - Gainesville		CFL Pizza
+28	Chiefland	G112008	1107 N Young Blvd	Chiefland	FL	32626	United States	FALSE	Chiefland	Kristin Powell		FLG Chicken
+29	Clermont	26540	750 E Hwy 50	Clermont	FL	34711	United States	FALSE	Clermont	Robert Comer - Orlando East		CFL Pizza
+30	Clermont WS	26546	13900 CR 455	Clermont	FL	34711	United States	FALSE	Clermont WS	Robert Comer - Orlando East		CFL Pizza
+31	Cocoa	27974	2721 Clearlake Road	Cocoa	FL	32926	United States	FALSE	Cocoa	Alissa Alvarado		Bravo Foods
+32	Cocoa Beach	27971	3645 N. Atlantic Ave	Cocoa Beach	FL	32931	United States	FALSE	Cocoa Beach	Chris Mendillo		Bravo Foods
+33	Cocoa Beach	26502	179 E Cocoa Bch Causeway	Cocoa Beach	FL	32931	United States	FALSE	Cocoa Beach	Arlee Andre		CFL Pizza
+34	College Road	30580	2377 SW College Road	Ocala	FL	34471	United States	FALSE	College Road	Dustin Patton - Ocala		CFL Pizza
+35	Curry Ford	26577	4432 Curry Ford Road	Orlando	FL	32812	United States	FALSE	Curry Ford	Rumone Traill - Orlando South		CFL Pizza
+36	Deland Delco	26553	115 E New York Ave	Deland	FL	32724	United States	FALSE	Deland Delco	Rachael Sanchez - Midstate		CFL Pizza
+37	Deland RR	26533	1403 N Woodland Blvd	Deland	FL	32720	United States	FALSE	Deland RR	Rachael Sanchez - Midstate		CFL Pizza
+38	Deltona	27986	2753 Elkcam Blvd	Deltona	FL	32738	United States	FALSE	Deltona	Kadi Andre		Bravo Foods
+39	Deltona	26548	1894 Providence Blvd	Deltona	FL	32725	United States	FALSE	Deltona	Barbara Shreve		CFL Pizza
+40	Deltona (New)	35194	605 Courtland Blvd Suite 103A	Deltona	FL	32738	United States	FALSE	Deltona (New)	Barbara Shreve		CFL Pizza
+41	Dr. Phillips	26572	7536 Dr Phillips Blvd	Orlando	FL	32819	United States	FALSE	Dr. Phillips	Rumone Traill - Orlando South		CFL Pizza
+42	Dunnellon	26494	11192 N Williams St	Dunnellon	FL	34432	United States	FALSE	Dunnellon	Hannah Hill - Lake Sumter		CFL Pizza
+43	East Altamonte	26569	600 E Altamonte Dr	Altamonte Spgs	FL	32701	United States	FALSE	East Altamonte	Jennifer Welsh - Orlando North		CFL Pizza
+44	East Colonial	27976	4225 E. Colonial Dr	Orlando	FL	32803	United States	FALSE	East Colonial	Duane Lewis		Bravo Foods
+45	East Michigan	G112003	426 East Michigan St	Orlando	FL	32806	United States	FALSE	East Michigan	Kristin Powell		FLG Chicken
+46	Edgewater	26564	4343 Edgewater Dr	Orlando	FL	32804	United States	FALSE	Edgewater	Robert Comer - Orlando East		CFL Pizza
+47	Edgewood	26565	5628 Hansel Ave	Edgewood	FL	32809	United States	FALSE	Edgewood	Rumone Traill - Orlando South		CFL Pizza
+48	Eustis	26531	16106 US Hwy 441	Eustis	FL	32726	United States	FALSE	Eustis	Hannah Hill - Lake Sumter		CFL Pizza
+49	Fern Park	G112002	349 Semoran Blvd	Fern Park	FL	32730	United States	FALSE	Fern Park	Josuah Ross		FLG Chicken
+50	Foxwoods	28624	2765 NW 49th Ave, Suite 306	Ocala	FL	34482	United States	FALSE	Foxwoods	Dustin Patton - Ocala		CFL Pizza
+51	Goldenrod	27988	6065 S. Goldenrod Road	Orlando	FL	32822	United States	FALSE	Goldenrod	Ravendra Presaud		Bravo Foods
+52	Groveland	36941	10880 West Colonial Dr	Ocoee	FL	34761	United States	FALSE	Groveland	Robert Comer - Orlando East		CFL Pizza
+53	Groveland	G112007	14405 Monte Vista Road, Ste 101	Groveland	FL	34736	United States	FALSE	Groveland	Kristin Powell		FLG Chicken
+54	Heathrow	29826	5252 W SR 46	Lake Mary	FL	32771	United States	FALSE	Heathrow	Barbara Shreve		CFL Pizza
+55	Hiawasee	27978	6611 W. Colonial Dr	Orlando	FL	32818	United States	FALSE	Hiawasee	Duane Lewis		Bravo Foods
+56	Hiawassee	26488	6607 W Colonial Dr	Orlando	FL	32818	United States	FALSE	Hiawassee	Rumone Traill - Orlando South		CFL Pizza
+57	Hiawassee	G112006	6607 W Colonial Dr	Orlando	FL	32818	United States	FALSE	Hiawassee	Kristin Powell		FLG Chicken
+58	Holly Hill	26551	832 N Nova Road	Daytona Beach	FL	32117	United States	FALSE	Holly Hill	Rachael Sanchez - Midstate		CFL Pizza
+59	Hunt Club	26563	241 N Hunt Club Blvd, Ste 141	Longwood	FL	32779	United States	FALSE	Hunt Club	Jennifer Welsh - Orlando North		CFL Pizza
+60	Hunters Creek	35998	14040 S John Young Parkway	Orlando	FL	32837	United States	FALSE	Hunters Creek	Cory Matthews		Bravo Foods
+61	Hunters Creek	26573	3908 Town Center Blvd	Orlando	FL	32837	United States	FALSE	Hunters Creek	Monica Johnson - Kissimmee		CFL Pizza
+62	I-Drive R2K	26543	9100 International Dr	Orlando	FL	32819	United States	FALSE	I-Drive R2K	Monica Johnson - Kissimmee		CFL Pizza
+63	I-Drive/Wet-n-Wild	26541	7060 International Dr	Orlando	FL	32819	United States	FALSE	I-Drive/Wet-n-Wild	Monica Johnson - Kissimmee		CFL Pizza
+64	K3 Delco	26506	4975 W Irlo Bronson Mem. Hwy	Kissimmee	FL	34746	United States	FALSE	K3 Delco	Hector Berrios - AC		CFL Pizza
+65	Kissimmee OBT	26526	3311 S Orange Blossom Trl	Kissimmee	FL	34746	United States	FALSE	Kissimmee OBT	Hector Berrios - AC		CFL Pizza
+66	Kissimmee R2K	26534	5740 W. Irlo Bronson Mem. Hwy	Kissimmee	FL	34746	United States	FALSE	Kissimmee R2K	Hector Berrios - AC		CFL Pizza
+67	Lake Mary	27979	3755 W. Lake Mary Blvd	Lake Mary	FL	32746	United States	FALSE	Lake Mary	Kadi Andre		Bravo Foods
+68	Lake Mary	G112001	3890 Lake Emma Road	Lake Mary	FL	32746	United States	FALSE	Lake Mary	Josuah Ross		FLG Chicken
+69	Lake Mary Delco	26571	3005 W Lake Mary Blvd, Ste 107	Lake Mary	FL	32746	United States	FALSE	Lake Mary Delco	Jennifer Welsh - Orlando North		CFL Pizza
+70	Lake Minnie	38808	610 Lake Minnie Drive	Sanford	FL	32773	United States	FALSE	Lake Minnie	Jennifer Welsh - Orlando North		CFL Pizza
+71	Lake Washington	26556	3214 Lake Washington Road	Melbourne	FL	32934	United States	FALSE	Lake Washington	Arlee Andre		CFL Pizza
+72	Lee Road	27983	711 Lee Road	Orlando	FL	32810	United States	FALSE	Lee Road	Duane Lewis		Bravo Foods
+73	Lee Vista	26515	8255 Lee Vista Blvd, Ste B	Orlando	FL	32822	United States	FALSE	Lee Vista	Rumone Traill - Orlando South		CFL Pizza
+74	Leesburg	26518	8425  US Hwy 441	Leesburg	FL	34788	United States	FALSE	Leesburg	Hannah Hill - Lake Sumter		CFL Pizza
+75	Leesburg MP	26490	1007 N 14th St	Leesburg	FL	34748	United States	FALSE	Leesburg MP	Hannah Hill - Lake Sumter		CFL Pizza
+76	Longwood	36021	126 S Ronald Raegan Blvd	Longwood	FL	32750	United States	FALSE	Longwood	Ravendra Presaud		Bravo Foods
+77	Main Street	27922	1204 N Main St	Gainesville	FL	32601	United States	FALSE	Main Street	Bryan Fletcher - Gainesville		CFL Pizza
+78	Maricamp	27114	9264 SE Maricamp Road	Ocala	FL	34472	United States	FALSE	Maricamp	Dustin Patton - Ocala		CFL Pizza
+79	Marion Oaks	29731	166 Marion Oaks Blvd	Ocala	FL	34473	United States	FALSE	Marion Oaks	Dustin Patton - Ocala		CFL Pizza
+80	Melbourne	27972	2424 Wickham Road	Melbourne	FL	32935	United States	FALSE	Melbourne	Chris Mendillo		Bravo Foods
+81	Merritt Island	27970	410 N. Courtenay Pkwy	Merritt Island	FL	32953	United States	FALSE	Merritt Island	Chris Mendillo		Bravo Foods
+82	Merritt Island	37375	125 E Merritt Island Causeway, Ste 111	Merritt Island	FL	32952	United States	FALSE	Merritt Island	Arlee Andre		CFL Pizza
+83	Metrowest	26559	2426 S Kirkman Road	Orlando	FL	32811	United States	FALSE	Metrowest	Rumone Traill - Orlando South		CFL Pizza
+84	Michigan Avenue	26537	1313 E Vine St	Kissimmee	FL	34744	United States	FALSE	Michigan Avenue	Monica Johnson - Kissimmee		CFL Pizza
+85	Moss Park	26522	10395 Narcoossee Road	Orlando	FL	32827	United States	FALSE	Moss Park	Rumone Traill - Orlando South		CFL Pizza
+86	Mt. Dora	26575	18930 US Hwy 441	Mt. Dora	FL	32757	United States	FALSE	Mt. Dora	Hannah Hill - Lake Sumter		CFL Pizza
+87	Narcoossee	27989	10211 Narcoossee Road	Orlando	FL	32832	United States	FALSE	Narcoossee	Cory Matthews		Bravo Foods
+88	Narcoossee Road	26514	1939  S Narcoossee Road	St. Cloud	FL	34771	United States	FALSE	Narcoossee Road	Monica Johnson - Kissimmee		CFL Pizza
+89	New Smyrna Bch	27990	1860 SR 44	New Smyrna Bch	FL	32168	United States	FALSE	New Smyrna Bch	Alissa Alvarado		Bravo Foods
+90	New Smyrna Beach	26536	1616 S Dixie Hwy	New Smyrna Bch	FL	32168	United States	FALSE	New Smyrna Beach	Rachael Sanchez - Midstate		CFL Pizza
+91	North Semoran	26576	1001 N Semoran Blvd	Orlando	FL	32807	United States	FALSE	North Semoran	Jonathon Perry - Orlando Mid		CFL Pizza
+92	OBT	27982	5400 N. Orange Blossom Trl	Orlando	FL	32810	United States	FALSE	OBT	Duane Lewis		Bravo Foods
+93	Ocala	G112010	3815 E Silver Springs Blvd	Ocala	FL	34470	United States	FALSE	Ocala	Kristin Powell		FLG Chicken
+94	Ocoee/Apopka	26524	323 West Road	Ocoee	FL	34761	United States	FALSE	Ocoee/Apopka	Jennifer Welsh - Orlando North		CFL Pizza
+95	Ocoee/Windemere	33322	10880 West Colonial Dr	Ocoee	FL	34761	United States	FALSE	Ocoee/Windemere	Robert Comer - Orlando East		CFL Pizza
+96	Orange City	27980	2628 Enterprise Road	Orange City	FL	32763	United States	FALSE	Orange City	Tom Sias		Bravo Foods
+97	Orange City	26487	917 Saxon Blvd	Orange City	FL	32763	United States	FALSE	Orange City	Barbara Shreve		CFL Pizza
+98	Ormond MP	26496	432 S Atlantic Ave	Ormond Beach	FL	32176	United States	FALSE	Ormond MP	Rachael Sanchez - Midstate		CFL Pizza
+99	Oviedo	27987	1859 CR 419	Oviedo	FL	32766	United States	FALSE	Oviedo	Ravendra Presaud		Bravo Foods
+100	Oviedo	26511	1875 W CR 419	Oviedo	FL	32765	United States	FALSE	Oviedo	Jonathon Perry - Orlando Mid		CFL Pizza
+101	Palm Bay Delco	26558	868 Jupiter Blvd NW	Palm Bay	FL	32907	United States	FALSE	Palm Bay Delco	Arlee Andre		CFL Pizza
+102	Palm Bay MP	26498	4850 Babcock St NE	Palm Bay	FL	32905	United States	FALSE	Palm Bay MP	Arlee Andre		CFL Pizza
+103	Poinciana	34162	3270 Pleasant Hill Road	Kissimmee	FL	34746	United States	FALSE	Poinciana	Cory Matthews		Bravo Foods
+104	Poinciana	26532	898 Cypress Pkwy	Kissimmee	FL	34759	United States	FALSE	Poinciana	Monica Johnson - Kissimmee		CFL Pizza
+105	Port Orange	38868	1781 Dunlawton Avenue, Suite 2	Port Orange	FL	32127	United States	FALSE	Port Orange	Rachael Sanchez - Midstate		CFL Pizza
+106	Port St. John	26555	710 West Ave	Cocoa	FL	32927	United States	FALSE	Port St. John	Arlee Andre		CFL Pizza
+107	Rock Springs	26519	1148 N Rock Springs Road	Apopka	FL	32712	United States	FALSE	Rock Springs	Jennifer Welsh - Orlando North		CFL Pizza
+108	Rockledge	26503	1842 Rockledge Blvd	Rockledge	FL	32955	United States	FALSE	Rockledge	Arlee Andre		CFL Pizza
+109	Rockledge	G112005	1842 Rockledge Blvd	Rockledge	FL	32955	United States	FALSE	Rockledge	Josuah Ross		FLG Chicken
+110	Sanford	27984	1200 W.P. Ball Blvd	Sanford	FL	32771	United States	FALSE	Sanford	Kadi Andre		Bravo Foods
+111	Sanford	26509	2002 S French Ave	Sanford	FL	32771	United States	FALSE	Sanford	Barbara Shreve		CFL Pizza
+112	Satellite Beach	34297	1024 Hwy A1A	Satellite Beach	FL	32937	United States	FALSE	Satellite Beach	Arlee Andre		CFL Pizza
+113	Silver Hills	31828	2702 N Pine Hills Road	Orlando	FL	32808	United States	FALSE	Silver Hills	Robert Comer - Orlando East		CFL Pizza
+114	St. Cloud	34163	4899 E Irlo Bronson Hwy	St. Cloud	FL	34771	United States	FALSE	St. Cloud	Chris Mendillo		Bravo Foods
+115	St. Cloud	26499	2818 13th St	St. Cloud	FL	34769	United States	FALSE	St. Cloud	Monica Johnson - Kissimmee		CFL Pizza
+116	Stoneybrook	26520	15504 Stoneybrook W Pkwy	Winter Garden	FL	34787	United States	FALSE	Stoneybrook	Robert Comer - Orlando East		CFL Pizza
+117	Summerfield	26547	17860 SE 109th Ave	Summerfield	FL	34491	United States	FALSE	Summerfield	Dustin Patton - Ocala		CFL Pizza
+118	Temple Trail	26560	2335 Temple Trl, Ste 4	Winter Park	FL	32789	United States	FALSE	Temple Trail	Jonathon Perry - Orlando Mid		CFL Pizza
+119	Titusville	27969	2004 Washington Ave	Titusville	FL	32780	United States	FALSE	Titusville	Chris Mendillo		Bravo Foods
+120	Titusville Delco	26554	2690 S Hopkins Ave	Titusville	FL	32780	United States	FALSE	Titusville Delco	Rachael Sanchez - Midstate		CFL Pizza
+121	Top of the World	26523	8449 SW SR 200	Ocala	FL	34481	United States	FALSE	Top of the World	Dustin Patton - Ocala		CFL Pizza
+122	Tower Road	27921	7331 NW 4th Blvd	Gainesville	FL	32607	United States	FALSE	Tower Road	Bryan Fletcher - Gainesville		CFL Pizza
+123	Tuskawilla	26512	1295 Tuskawilla Road	Winter Springs	FL	32708	United States	FALSE	Tuskawilla	Jonathon Perry - Orlando Mid		CFL Pizza
+124	UCF	27977	10005 University Blvd	Orlando	FL	32817	United States	FALSE	UCF	Duane Lewis		Bravo Foods
+125	Umatilla	26493	939 N Central Ave	Umatilla	FL	32784	United States	FALSE	Umatilla	Hannah Hill - Lake Sumter		CFL Pizza
+126	Umatilla	G112013	939 N Central Ave	Umatilla	FL	32784	United States	FALSE	Umatilla	Kristin Powell		FLG Chicken
+127	University Delco	26562	10002 University Blvd	Orlando	FL	32817	United States	FALSE	University Delco	Jonathon Perry - Orlando Mid		CFL Pizza
+128	Viera	30349	7850 N Wickham Road	Melbourne	FL	32940	United States	FALSE	Viera	Chris Mendillo		Bravo Foods
+129	Viera	31734	7840 N Wickham Road	Melbourne	FL	32940	United States	FALSE	Viera	Arlee Andre		CFL Pizza
+130	W Hibiscus	26557	231 W Hibiscus Blvd	Melbourne	FL	32901	United States	FALSE	W Hibiscus	Arlee Andre		CFL Pizza
+131	Waterford Lakes	26568	879 N Alafaya Trl	Orlando	FL	32828	United States	FALSE	Waterford Lakes	Jonathon Perry - Orlando Mid		CFL Pizza
+132	West Altamonte	26516	767 S SR 434	Altamonte Spgs	FL	32714	United States	FALSE	West Altamonte	Jennifer Welsh - Orlando North		CFL Pizza
+133	Westgate	26545	8557 W Irlo Bronson Hwy	Kissimmee	FL	34747	United States	FALSE	Westgate	Hector Berrios - AC		CFL Pizza
+134	Westgate	G112011	8557 W Irlo Bronson Hwy	Kissimmee	FL	34747	United States	FALSE	Westgate	Josuah Ross		FLG Chicken
+135	Wildwood	27447	842 S Main St	Wildwood	FL	34785	United States	FALSE	Wildwood	Hannah Hill - Lake Sumter		CFL Pizza
+136	Williston	31647	143 W. Noble Ave	Williston	FL	32696	United States	FALSE	Williston	Cory Matthews		Bravo Foods
+137	Williston	29922	23 E Noble Ave	Williston	FL	32696	United States	FALSE	Williston	Bryan Fletcher - Gainesville		CFL Pizza
+138	Windermere	32177	7970 Winter Grdn Vineland Road Ste 110	Windermere	FL	34786	United States	FALSE	Windermere	Cory Matthews		Bravo Foods
+139	Windermere	32141	7970 Winter Garden Vineland Road Ste 100	Windermere	FL	34786	United States	FALSE	Windermere	Hector Berrios - AC		CFL Pizza
+140	Winter Park	27981	690 S. Orlando Ave	Winter Park	FL	32789	United States	FALSE	Winter Park	Duane Lewis		Bravo Foods
