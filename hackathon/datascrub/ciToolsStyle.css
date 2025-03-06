@@ -138,6 +138,12 @@ section {
     top: 300px;
 }
 
+#sanitizedDataDiv{
+    display: flex;
+    margin-top: 20px;
+    flex-direction: column;
+}
+
 /* shared styling */
 
 .bold {
@@ -189,6 +195,7 @@ section {
     background-color: #fff;
     border: 1px solid #999;
     font-size: 12px;
+    overflow: scroll;
 }
 
 .input-wrapper {

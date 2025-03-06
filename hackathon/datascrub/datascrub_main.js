@@ -159,7 +159,7 @@ var APP = {
             }
         }
 
-        // Check for bad characters in the data
+        // Check for bad characters in the data 👈
         if (pasteData.indexOf("\"") > -1) alert("There are quotes in the data that will not allow the script to parse the data correctly.  Correct data in text editor before using this script.");
         if (pasteData.indexOf(";") > -1) alert("There are semi-colons in the data that will not allow the script to parse the data correctly.  Correct data in text editor before using this script.");
         var rows = pasteData.split("\n");

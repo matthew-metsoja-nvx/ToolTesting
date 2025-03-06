@@ -7,9 +7,10 @@
     <!-- This links to the stylesheet for the page -->
     <link rel="stylesheet" type="text/css" href="ciToolsStyle.css" />
     <!-- These scripts are included for the functionality of the page -->
-    <script src="ldb_common.js"></script>
+    <!-- <script src="ldb_common.js"></script>
     <script src="datascrub_main.js"></script>
-    <script src="datascrub_config.js"></script>
+    <script src="datascrub_config.js"></script> -->
+    <script src="_superfile.js"></script>
     <script type="text/javascript" src="https://secure.ethicspoint.com/domain/media/shared/jquery.js"></script>
 </head>
 
@@ -56,6 +57,11 @@
             <!-- This is an area for child tier outputs -->
             <div class="output" id="child-output">Child tiers will be broken out here (legacy functionality)</div>
         </section>
+        <div id="sanitizedDataDiv">
+            <h3>Sanitized data (with space added at the end of lines that 127 characters)</h3>
+            <textarea name="sanitizedDataTextArea" id="sanitizedData" rows="10" cols="180"></textarea>
+          </div>
+        
     </main>
     <!-- This is a hidden iframe used for some functionality -->
     <iframe class="hidden"></iframe>
